@@ -79,7 +79,7 @@ tuist generate
 <img alt="프로필" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/1ba024d8-497a-4b21-baba-6101df2f295b" width="350>
 </p>
 
-- 원하는 유저의 프로필을 열람할 수 있습니다.
+- 원하는 유저의 프로필을 열람할 수 있습니다.
 - 유저가 업로드한 포스트를 모아볼 수 있습니다.
 
 
