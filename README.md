@@ -25,7 +25,7 @@
 curl https://mise.run | sh
 ```
 
-## **tuistv3.40.0 사용설정**
+## **tuist v3.40.0 사용설정**
 ```bash
 mise use tuist@3.40.0
 ```
