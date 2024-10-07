@@ -20,6 +20,24 @@
 
 </p>
 
+## **시작하기(mise설치)**
+```bash
+curl https://mise.run | sh
+```
+
+## **tuistv3.40.0 사용설정**
+```bash
+mise use tuist@3.40.0
+```
+
+## **tuist fetch, generate**
+```bash
+tuist fetch
+```
+```bash
+tuist generate
+```
+
 ## **주요 기능 소개**
 
 ### **릴스(숏폼) 기능**
