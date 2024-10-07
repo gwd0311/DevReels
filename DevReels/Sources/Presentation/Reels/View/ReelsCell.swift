@@ -192,9 +192,17 @@ final class ReelsCell: UITableViewCell, Identifiable {
     func configureGradient() {
         let color1 = UIColor.black.withAlphaComponent(0.0)
         let color2 = UIColor.black.withAlphaComponent(0.7)
-        let gradient = UIImage.createGradient(color1: color1, color2: color2, frame: bottomGradientImageView.bounds)
+
+        let gradientBounds = bottomGradientImageView.bounds // Ensure this is not empty
+        guard gradientBounds.size.width > 0 && gradientBounds.size.height > 0 else {
+            // Log or handle the case where bounds are invalid
+            return
+        }
+
+        let gradient = UIImage.createGradient(color1: color1, color2: color2, frame: gradientBounds)
         bottomGradientImageView.image = gradient
     }
+
     
     func configureCell(data: Reels) {
         self.thumbnailImageView.imageURL = data.thumbnailURL
