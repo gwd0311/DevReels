@@ -54,24 +54,20 @@ tuist generate
 ### **기능에 대해 의견(댓글)남기기**
 
 <p>
-<img alt="댓글" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/11f066b4-8597-420d-bd79-cebab9d3d3e9" width="350>
+<img alt="댓글" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/11f066b4-8597-420d-bd79-cebab9d3d3e9" width="350">
 </p>
 
 - 시청한 영상에 대해 의견을 나눌 수 있습니다.
 - 댓글을 통해 소통할 수 있습니다.
 
-
-
 ### **동영상 업로드하기**
 
 <p>
-<img alt="업로드" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/906217ef-9d1b-4767-9ba6-4ac18b3818b1" width="350>
+<img alt="업로드" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/906217ef-9d1b-4767-9ba6-4ac18b3818b1" width="350">
 </p>
 
 - 동영상을 업로드할 수 있습니다.
 - 업로드할 동영상의 시작과 끝을 편집할 수 있습니다.
-
-
 
 ### **프로필**
 
@@ -87,7 +83,7 @@ tuist generate
 ### **팔로우**
 
 <p>
-<img alt="팔로우" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/f511bced-9d1f-4dba-a3cd-ab0a313f25d9" width="350>
+<img alt="팔로우" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/f511bced-9d1f-4dba-a3cd-ab0a313f25d9" width="350">
 </p>
 
 - 원하는 유저를 팔로우/언팔로우 할 수 있습니다.
