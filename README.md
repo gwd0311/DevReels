@@ -90,7 +90,7 @@ tuist generate
 <img alt="팔로우" src="https://github.com/DevReelsTeam/DevReels/assets/121999075/f511bced-9d1f-4dba-a3cd-ab0a313f25d9" width="350>
 </p>
 
-- 원하는 유저를 팔로우/언팔로우 할 수 있습니다.
+- 원하는 유저를 팔로우/언팔로우 할 수 있습니다.
 
 ---
 
